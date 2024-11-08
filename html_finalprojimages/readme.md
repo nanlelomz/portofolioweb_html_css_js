@@ -1,1 +1,10 @@
+![profile_name](https://github.com/user-attachments/assets/2217afca-1534-411e-a17f-b2e3b88ac1ad)
+![nav_bar](https://github.com/user-attachments/assets/8f7a4bdd-b3d8-4892-94b0-ae91fa300da9)
+![aboutme](https://github.com/user-attachments/assets/3c9da938-9a83-4bb3-9e28-2a630c61fc3b)
+![skills](https://github.com/user-attachments/assets/e1d772f0-f4c4-492f-b4a7-7c2226bbc48f)
+![projects](https://github.com/user-attachments/assets/b2969c82-4d05-473a-bd11-b2573e4eea32)
+![recomendation](https://github.com/user-attachments/assets/8b8502d0-396c-4a32-b89c-91fddb4a96fc)
+![new_recommendation](https://github.com/user-attachments/assets/eab52d0c-89a1-4b97-9c45-18c7c2ac6d23)
+![home_icon](https://github.com/user-attachments/assets/2c0f39f4-791a-4686-932c-3ae4d0773ca0)
+![popup png](https://github.com/user-attachments/assets/60836f2b-3c3e-4b3d-acb7-6ea5155b33ee)
 this is one page portofolio designed using html, css and JavaScript. This directory include all images used in the final project also.
